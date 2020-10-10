@@ -11,9 +11,9 @@
 * Uploaded nodemon for the hot deploys, start server with: nodemon ./bin/www    
 
 * example RestAPI requests are:
-    -> http://localhost:3001/car/AZA8126
-    -> http://localhost:3001/person/8/car
-    -> http://localhost:3001/getPersonsByCar?color=green
-    -> http://localhost:3001/getPersonsWithInsurance
-    -> http://localhost:3001/getPersonsOlderThan?age=25
+    - http://localhost:3001/car/AZA8126
+    - http://localhost:3001/person/8/car
+    - http://localhost:3001/getPersonsByCar?color=green
+    - http://localhost:3001/getPersonsWithInsurance
+    - http://localhost:3001/getPersonsOlderThan?age=25
     
