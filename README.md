@@ -6,9 +6,10 @@
 
 * server port: 3001
 * To start the application use this commands:
-    - npm install
-    - npm start
-* Uploaded nodemon for the hot deploys, start server with: nodemon ./bin/www    
+    - $ npm install
+    - $ npm start
+* Uploaded nodemon for the hot deploys, start server with: 
+    - $ nodemon ./bin/www    
 
 * example RestAPI requests are:
     - http://localhost:3001/car/AZA8126
