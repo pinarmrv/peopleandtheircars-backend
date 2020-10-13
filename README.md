@@ -5,7 +5,7 @@
 * Includes sample xml data file under db folder. used 'xml2js' to convert the xml data to json format.
 
 * server port: 3001
-* To start the application use this commands:
+* To start the application use the following commands:
     - $ npm install
     - $ npm start
 * Uploaded nodemon for the hot deploys, start server with: 
