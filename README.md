@@ -1,7 +1,7 @@
 # peopleandtheircars
 
 * Simple backend project with node.js
-* used Express-generator for the initial project temlplate.
+* used Express-generator for the initial project template.
 * Includes sample xml data file under db folder. used 'xml2js' to convert the xml data to json format.
 
 * server port: 3001
