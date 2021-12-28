@@ -1,4 +1,4 @@
-# peopleandtheircars
+# people-and-their-cars
 
 * Simple backend project using node.js
 * used Express-generator for the initial project template.
